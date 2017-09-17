@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CloudService2
+namespace CloudService
 {
     public class Class1
     {

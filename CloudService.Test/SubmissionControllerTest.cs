@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace CloudService
+namespace CloudService.Test
 {
     public class SubmissionControllerTest
     {
