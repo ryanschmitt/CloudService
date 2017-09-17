@@ -3,12 +3,12 @@ using Xunit;
 
 namespace CloudService
 {
-    public class UnitTest1
+    public class SubmissionControllerTest
     {
         [Fact]
         public void Test1()
         {
-
+            Assert.True(true);
         }
     }
 }
